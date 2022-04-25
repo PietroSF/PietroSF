@@ -65,6 +65,3 @@ You can check out how far I've come in my software engineering journey with the 
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
