@@ -6,7 +6,7 @@
 ### <div align="center">I'm a full-time full-stack freelance developer and I'm currently coding my way through The Odin Project's curriculum🚀🚀🚀</div>  
   
 
-- 🚂 Learning Ruby on Rails 🛤️  
+- 🚂 Developing in Ruby on Rails 🛤️  
   
 
 - 🏛️ Cultured Lisp and Haskell enjoyer  
