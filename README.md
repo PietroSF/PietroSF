@@ -10,7 +10,6 @@
  
   
 
-You can check out how far I've come in my software engineering journey with the Software Engineering Competency Matrix in [English](https://docs.google.com/document/d/1zPulTAhhoXtoQnHjbHEAWoryX7ASn_Lh_3SksFDeKJc/edit?usp=sharing) or in [Portuguese](https://docs.google.com/document/d/19ImdXpiDIX5EZy_vw6ywSWT9sHQyeG75ztt8X9L3K0A/edit?usp=sharing).  
   
 
 <br/>  
