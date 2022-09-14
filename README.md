@@ -1,9 +1,7 @@
 <div align="center">
 <img src="https://i.imgur.com/GO7NxUl.png" align="center" style="width: 50%" />
 </div>  
-  
 
-### <div align="center">I'm a full-time full-stack freelance developer and I'm currently coding my way through The Odin Project's curriculum🚀🚀🚀</div>  
   
 
 🚂 Developing in Ruby on Rails 🛤️  
